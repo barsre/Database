@@ -3,7 +3,7 @@
     
 <head>
 	<title>Super Dating</title>
-	<link rel="stylesheet" type="text/css" href="styles.css">
+	<link rel="stylesheet" type="text/css" href="scss/styles.css">
 </head>
     
 <body>

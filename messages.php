@@ -40,7 +40,7 @@
             <li>
                 <img src="<?php echo $messages['image'];?>">
                 <p><?php echo $messages['message_from'];?></p>
-                <p>Ammount of messages: <?php echo $messages['COUNT(message.message_from)'];?></p>
+                <p>Amount of messages: <?php echo $messages['COUNT(message.message_from)'];?></p>
                 <form action="into_message.php" method="post">
                     <input class="none" type="text" name="message_from" value="<?php echo $messages['message_from'];?>">
                     <input type="submit" name="submit" value="Go to chat">
